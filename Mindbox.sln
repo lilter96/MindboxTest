@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.GeometryCalculator", "Mindbox.GeometryCalculator\Mindbox.GeometryCalculator.csproj", "{D9770E5A-62DE-48E7-8DA9-75F5C2411527}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.GeometryCalculator.Tests", "Mindbox.GeometryCalculator.Tests\Mindbox.GeometryCalculator.Tests.csproj", "{9DAA5E96-FD58-40C7-8575-6A3B82415102}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D9770E5A-62DE-48E7-8DA9-75F5C2411527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9770E5A-62DE-48E7-8DA9-75F5C2411527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9770E5A-62DE-48E7-8DA9-75F5C2411527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAA5E96-FD58-40C7-8575-6A3B82415102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAA5E96-FD58-40C7-8575-6A3B82415102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAA5E96-FD58-40C7-8575-6A3B82415102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAA5E96-FD58-40C7-8575-6A3B82415102}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
